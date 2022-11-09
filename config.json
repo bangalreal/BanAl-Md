@@ -1,8 +1,8 @@
 {
-    "ownerNumber": "6281575886399@s.whatsapp.net",
-    "ownerName": "Riy 04",
-    "botName": "Hinata-Md",
-    "footer": "Xcode Team",
+    "ownerNumber" : "6283862284534@s.whatsapp.net" ,
+    "ownerName" : "BANG AL REAL" ,
+    "botName" : "BangAl-Md" ,
+    "footer" : "Tim Xcode" ,
     "sessionName": "session",
     "pathimg": "./media/hinata.jpg",
     "lolkey": "Beli Sendiri",
@@ -15,7 +15,7 @@
         "user": 15
     },
     "sticker": {
-        "packname": "Hinata-Md",
-        "author": "By Riy 04"
+        "packname": "BangAl-Md",
+        "penulis" : "Oleh Bang Al"
     }
 }
